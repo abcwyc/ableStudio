@@ -1,7 +1,8 @@
 # Able-Studio
 ##艾柏工作室
-> 先前的域名（ablestu.com）已过期；         
-> 请点击 [demo](http://ifetask.sinaapp.com/ablestu) 预览。
+
+> 请点击 [demo](http://ifetask.sinaapp.com/ablestu){:target="_blank"} 预览         
+> 先前的域名（ablestu.com）已过期。      
 
 这是我的第一个项目，是用BootStrap写的。
 那会儿写个导航都是一件很吃力的事儿，却还是硬生生是把这个网站给搭建起来了，还煞有介事的买了域名，租了服务器，想想我也是蛮拼的。
