@@ -1,7 +1,7 @@
 # Able-Studio
 ##艾柏工作室
 
-> 请点击 [demo](http://ifetask.sinaapp.com/ablestu) 预览         
+> 请点击 [demo](http://abcwyc.sinaapp.com/studio/) 预览         
 > 先前的域名（ablestu.com）已过期。      
 
 这是我的第一个项目，是用BootStrap写的。
